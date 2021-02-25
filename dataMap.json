@@ -1,0 +1,579 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "NAME": "Bearbrook Skateboard Park",
+        "NAME_FR": "Planchodrome Bearbrook",
+        "ADDRESS": "8720 Russell Road",
+        "ADDRESS_FR": "8720, chemin Russell",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.008282, 105.804464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Bob MacQuarrie Skateboard Park (SK8 Extreme Park)",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat asphalt surface, 10 components, City run learn to skateboard programs, City run skateboard camps in summer",
+        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.008242, 105.805516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "FACILITYID": 28002,
+        "NAME": "Walter Baker Skateboard Park",
+        "NAME_FR": "Planchodrome Walter-Baker",
+        "ADDRESS": "100 Charlie Rogers Place",
+        "ADDRESS_FR": "100, place Charlie Rogers",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Community : mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Concrete bowl, 7,000 sq ft",
+        "DESCRIPT_1": "Bol de béton, 7 000 pi2",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.008152, 105.807522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 9,
+        "FACILITYID": 28006,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "2785 8th Line Road",
+        "ADDRESS_FR": "2785, chemin 8th Line",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Metcalfe Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire de Metcalfe - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.009784, 105.806567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1160,
+        "FACILITYID": 28007,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "10 Warner Colpitts Lane",
+        "ADDRESS_FR": "10, ruelle Warner Colpitts",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "yes/oui",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Indoor - Summer",
+        "MODIFIED_D": "2018/03/07",
+        "CREATED_DA": null,
+        "FACILITY": "Johnny Leroux Stittsville Community Arena - Roving Skateboard Park Location",
+        "FACILITY_F": "Aréna communautaire de Stittsville Johnny-Leroux - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.007501, 105.801246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1693,
+        "FACILITYID": 28016,
+        "NAME": "Legacy Skateboard Park",
+        "NAME_FR": "Planchodrome Legacy",
+        "ADDRESS": "101 Centrepointe Drive",
+        "ADDRESS_FR": "101, promenade Centrepointe",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "District: larger facility to service population of 100,000 plus",
+        "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
+        "DESCRIPTIO": "Large concrete bowl, many street and vertical components, 17,000 sq ft",
+        "DESCRIPT_1": "Grand bol de béton, modules de rue et modules verticaux, 17 000 pi2",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.007591, 105.797662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1717,
+        "FACILITYID": 28018,
+        "NAME": "Greenboro Skateboard Park",
+        "NAME_FR": "Planchodrome de Greenboro",
+        "ADDRESS": "3142 Conroy Road",
+        "ADDRESS_FR": "3142, chemin Conroy",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.006429, 105.807704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 137,
+        "FACILITYID": 28019,
+        "NAME": "Bridlewood Skateboard Park",
+        "NAME_FR": "Planchodrome Bridlewood",
+        "ADDRESS": "65 Stonehaven Drive",
+        "ADDRESS_FR": "65, promenade Stonehaven",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.010826, 105.808531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1133,
+        "FACILITYID": 28020,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "100 Clifford Campbell Street",
+        "ADDRESS_FR": "100, rue Clifford-Campbell",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Fitzroy Harbour Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire de Fitzroy Harbour - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.011517, 105.801332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 657,
+        "FACILITYID": 28000,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "110 Malvern Drive",
+        "ADDRESS_FR": "110, promenade Malvern",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Walter Baker Sports Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre sportif Walter-Baker - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.010866, 105.800141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 653,
+        "FACILITYID": 28008,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "5660 Osgoode Main Street",
+        "ADDRESS_FR": "5660, rue Osgoode Main",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Osgoode Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire d'Osgoode - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.009985, 105.802469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 812,
+        "FACILITYID": 35050,
+        "NAME": "Charlie Bowins Skateboard Park",
+        "NAME_FR": "Planchodrome Charlie-Bowins",
+        "ADDRESS": "435 Bronson Avenue",
+        "ADDRESS_FR": "435, avenue Bronson",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor (Commemoratively named Charlie Bowins Skateboard Park on June 10, 2015)",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2015/05/20",
+        "FACILITY": "District: larger facility to service population of 100,000 plus",
+        "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat concrete surface, 10 plus components (large half pipe), City run learn to skateboard programs, City run skateboard camps in summer",
+        "DESCRIPT_1": "Surface de béton plane, 10 modules ou plus (grande demi-lune), programmes et camps de planche à roulettes en été géré par la Ville",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.011968, 105.804518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2457,
+        "FACILITYID": 35637,
+        "NAME": "Diamond Jubilee Skateboard Park",
+        "NAME_FR": "Planchodrome Jubilé de Diamant",
+        "ADDRESS": "2810 Findlay Creek Drive",
+        "ADDRESS_FR": "2810, promenade Findlay Creek",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2017/07/11",
+        "CREATED_DA": "2016/06/22",
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.010856, 105.804861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 430,
+        "FACILITYID": 28005,
+        "NAME": "Blackburn Skateboard Park",
+        "NAME_FR": "Planchodrome Blackburn",
+        "ADDRESS": "190 Glen Park Drive",
+        "ADDRESS_FR": "190, promenade Glen Park",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.011227, 105.806782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 989,
+        "FACILITYID": 28017,
+        "NAME": "Goulbourn Skateboard Park",
+        "NAME_FR": "Planchodrome Goulbourn",
+        "ADDRESS": "1500 Shea Road",
+        "ADDRESS_FR": "1500, chemin Shea",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 6 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 6 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.009304, 105.801364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1334,
+        "FACILITYID": 28011,
+        "NAME": "Constance Bay Skateboard Park",
+        "NAME_FR": "Planchodrome Constance Bay",
+        "ADDRESS": "262 Len Purcell Drive",
+        "ADDRESS_FR": "262, promenade Len-Purcell",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.011697, 105.807973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 923,
+        "FACILITYID": 28013,
+        "NAME": "Roving Skateboard Park Location",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "334 River Road",
+        "ADDRESS_FR": "334, chemin River",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Eccolands Park - Roving Skateboard Park Location",
+        "FACILITY_F": "Parc Eccolands - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.010926, 105.80307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 762,
+        "FACILITYID": 28004,
+        "NAME": "Trillium Park Skateboard Park",
+        "NAME_FR": "Planchodrome de Park Trillium",
+        "ADDRESS": "2030 Ogilvie Road",
+        "ADDRESS_FR": "2030, chemin Ogilvie",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.009955, 105.802404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 52,
+        "FACILITYID": 35120,
+        "NAME": "Lansdowne Skateboard Park",
+        "NAME_FR": "Planchodrome Lansdowne",
+        "ADDRESS": "450 Queen Elizabeth Driveway",
+        "ADDRESS_FR": "450, promenade Queen Elizabeth",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2017/07/11",
+        "CREATED_DA": "2015/09/23",
+        "FACILITY": "A series of skateboard ramps ideally suited to beginners.",
+        "FACILITY_F": "Une série de rampes adaptées parfaitement aux débutants.",
+        "DESCRIPTIO": "Flat asphalt surface",
+        "DESCRIPT_1": "Survace d'asphalte plane",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.009083, 105.802887]
+      }
+    }
+  ]
+}

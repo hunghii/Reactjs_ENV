@@ -1,0 +1,22 @@
+{
+  "app.routing./signin": "Đăng nhập",
+  "app.routing./trung-chuyen-don": "Trung chuyển đón",
+  "app.routing./trung-chuyen-tra": "Trung chuyển trả",
+  "app.routing./dieu-hanh": "Điều hành mới",
+  "app.routing./quan-ly-lenh": "Quản lý lệnh",
+  "app.routing./quan-ly-ve": "Quản lý vé",
+  "app.routing./phan-lich-new": "Phân lịch mới",
+  "app.routing./cham-cong": "Điều độ ngày",
+  "app.routing./quan-ly-ca": "Quản lý ca",
+  "app.routing./vung-dieu-hanh": "Vùng điều hành",
+  "app.routing./phan-lich": "Điều độ tháng",
+  "app.routing./bao-cao-lenh": "Báo cáo tổng hợp",
+  "app.routing./bao-cao-ve": "Báo cáo vé trung chuyển",
+  "app.routing./bao-cao-thang": "Báo cáo chấm công",
+  "app.routing./bao-cao-khai-thac-xe": "Báo cáo khai thác xe trung chuyển",
+  "app.routing./bao-cao-nang-suat-lai-xe": "Báo cáo năng suất lái xe",
+  "app.routing./bao-cao-nang-suat-xe": "Báo cáo năng suất xe",
+  "app.routing./bao-cao-chat-luong": "Báo cáo chất lượng",
+  "app.routing./bao-cao-tuan-thu": "Báo cáo tuân thủ",
+  "app.routing./bao-cao-cham-cong-lai-xe-trung-chuyen": "Báo cáo chấm công lái xe trung chuyển"
+}

@@ -1,0 +1,9 @@
+apps:
+  - script : ./server.js
+    name: admin-uat
+    instances: 1
+    exec_mode: fork
+    env :
+      PORT_ENV: 'UAT'
+      PORT: 5001
+    node_args: "--max-old-space-size=4048"

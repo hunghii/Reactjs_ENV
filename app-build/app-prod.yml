@@ -1,0 +1,9 @@
+apps:
+  - script : ./server.js
+    name: admin-prod
+    instances: 1
+    exec_mode: fork
+    env :
+      PORT_ENV: 'PROD'
+      PORT: 6001
+    node_args: "--max-old-space-size=4048"

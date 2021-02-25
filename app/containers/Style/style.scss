@@ -1,0 +1,71 @@
+
+
+@for $i from 0 through 7 {
+  .mb_#{$i*5} {
+    margin-bottom: 0px + $i * 5 !important;
+  }
+}
+
+@for $i from 0 through 7 {
+  .mt_#{$i*5} {
+    margin-top: 0px + $i * 5 !important;
+  }
+}
+
+@for $i from 0 through 7 {
+  .mr_#{$i*5} {
+    margin-right: 0px + $i * 5 !important;
+  }
+}
+
+@for $i from 0 through 7 {
+  .ml_#{$i*5} {
+    margin-left: 0px + $i * 5 !important;
+  }
+}
+.borderInput{
+  border: none;
+}
+table tbody tr td {
+  border: 1px solid rgb(242, 243, 248);
+}
+.arr_ngaydon {
+  display: flex;
+  justify-content: center;
+}
+.ngaydon {
+  padding-top: 5px;
+}
+.icon_info {
+  width: 30px;
+  vertical-align: baseline;
+  height: 30px !important;
+  margin-left: 5px;
+  border: 1px solid #dcdfe6;
+  border-radius: 50%;
+  display: inline-block;
+}
+.icon_info:hover {
+  background-color: #dcdfe6;
+}
+.circleButton {
+  margin-top: -5px;
+  margin-left: -2px;
+  color: #606266;
+}
+.circleButton span {
+  font-size: 12px;
+  border-radius: 50%;
+  background-color: #6e8e8f;
+  color: #fff;
+}
+.circleButton:hover span {
+  background-color: #606266;
+}
+.ant-btn {
+  border-radius: .25rem;
+}
+.text {
+  text-align: left;
+  padding-left: 5px;
+}
